@@ -107,7 +107,7 @@ The color of the volume bar changes based on level:
 ## 👤 Author
 
 **Your Name**  
-GitHub: [@your-username](https://github.com/avazazizov)
+GitHub: [Avaz Azizov](https://github.com/avazazizov)
 
 ---
 
