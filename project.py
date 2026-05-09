@@ -98,12 +98,4 @@ while True:
     )
     
     cv2.imshow("Img", img)
-    key = cv2.waitKey(1)
-    if key == ord('s'):
-        cv2.imwrite('assets/hand.png', img)
-        print("Hand screenshot saxlanildi!")
-    if key == ord('v'):
-        cv2.imwrite(r'C:\Users\Evez\Desktop\project\hand-volume-control\assets/volume.png', img)
-        print("Volume screenshot saxlanildi!")
-    if key == ord('q'):
-        break
+    cv2.waitKey(1)
