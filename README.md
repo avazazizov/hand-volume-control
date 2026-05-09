@@ -3,8 +3,6 @@
 Control your system volume using hand gestures — no touch required!  
 Built with Python, OpenCV, MediaPipe, and pycaw.
 
-![Demo GIF](assets/demo.gif)
-
 ---
 
 ## ✨ Features
@@ -17,11 +15,9 @@ Built with Python, OpenCV, MediaPipe, and pycaw.
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Screenshot
 
-| Hand Tracking | Volume Bar |
-|---|---|
-| ![hand](assets/hand.png) | ![volume](assets/volume.png) |
+![volume](assets/volume.jpg)
 
 ---
 
@@ -42,7 +38,7 @@ pip install opencv-python numpy cvzone mediapipe pycaw comtypes
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/hand-volume-control.git
+git clone https://github.com/avazazizov/hand-volume-control.git
 cd hand-volume-control
 
 # 2. Create a conda environment
@@ -82,9 +78,7 @@ hand-volume-control/
 ├── project.py              # Main script
 ├── README.md               # This file
 └── assets/
-    ├── demo.gif            # Demo animation
-    ├── hand.png            # Hand tracking screenshot
-    └── volume.png          # Volume bar screenshot
+    └── volume.png          # Screenshot
 ```
 
 ---
@@ -113,7 +107,7 @@ The color of the volume bar changes based on level:
 ## 👤 Author
 
 **Your Name**  
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@your-username](https://github.com/avazazizov)
 
 ---
 
