@@ -107,9 +107,3 @@ The color of the volume bar changes based on level:
 ## 👤 Author
 
 GitHub: [Avaz Azizov](https://github.com/avazazizov)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
